@@ -1,4 +1,4 @@
-# 🌍 Life Expectancy Analysis – Machine Learning Project
+# 🧬 Life Expectancy Analysis – Machine Learning Project
 
 This project analyzes **World Health Organization (WHO) life expectancy data** using data science and machine learning techniques.  
 It explores the impact of **economic, demographic, and health-related factors** on life expectancy across different countries and builds models to predict life expectancy.  
