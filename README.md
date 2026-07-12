@@ -107,7 +107,7 @@ This dataset is widely used for **regression**, **public health analytics**, and
 
 <td>
 
-<<img src="assets/images/country_explorer.png" width="100%">
+<img src="assets/images/country_explorer.png" width="100%">
 
 </td>
 
