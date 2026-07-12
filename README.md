@@ -4,7 +4,7 @@
 
 ### Predicting Global Life Expectancy using WHO Healthcare Indicators
 
-<img src="images/dashboard.png" width="1000"/>
+<img src="assets/images/overview.png" width="100%">
 
 ---
 
@@ -30,7 +30,7 @@ The workflow combines **data preprocessing, exploratory analysis, statistical co
 
 <p align="center">
 
-<img src="images/dashboard.png" width="1000">
+<img src="assets/images/overview.png" width="100%">
 
 </p>
 
@@ -79,7 +79,7 @@ This dataset is widely used for **regression**, **public health analytics**, and
 ### 🖼️ Dataset Preview
 
 <p align="center">
-  <img src="images/dataset_preview.png" width="900" alt="Dataset Preview">
+  <img src="assets/images/data_quality.png" width="100%">
 </p>
 
 ### 📊 Dataset Statistics
@@ -101,13 +101,13 @@ This dataset is widely used for **regression**, **public health analytics**, and
 
 <td>
 
-<img src="images/heatmap.png">
+<img src="assets/images/global_trends.png" width="100%">
 
 </td>
 
 <td>
 
-<img src="images/developed.png">
+<<img src="assets/images/country_explorer.png" width="100%">
 
 </td>
 
@@ -117,13 +117,13 @@ This dataset is widely used for **regression**, **public health analytics**, and
 
 <td>
 
-<img src="images/gdp.png">
+<img src="assets/images/country_comparison.png" width="100%">
 
 </td>
 
 <td>
 
-<img src="images/distribution.png">
+<img src="assets/images/correlation.png" width="100%">
 
 </td>
 
@@ -192,7 +192,7 @@ To predict life expectancy, two supervised machine learning algorithms were impl
 ### 📊 Model Comparison
 
 <p align="center">
-  <img src="images/model_performance.png" width="750" alt="Model Performance Comparison">
+  <img src="assets/images/prediction.png" width="100%">
 </p>
 
 ### 🏆 Best Performing Model
