@@ -1,0 +1,22 @@
+{
+  "name": "life-expectancy-intelligence-platform",
+  "version": "1.0.0",
+  "description": "Global Life Expectancy Intelligence Platform - WHO data visualization dashboard",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "keywords": [
+    "life-expectancy",
+    "data-visualization",
+    "plotly",
+    "leaflet",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "ISC"
+}
